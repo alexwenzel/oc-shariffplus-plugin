@@ -1,0 +1,16 @@
+{
+    "name": "alexwenzel/shariffplus-plugin",
+    "type": "october-plugin",
+    "description": "Shariff-Plus enables website users to share and like their favorite content without compromising their privacy.",
+    "require": {
+        "composer/installers": "~1.0",
+        "october/rain": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Alexander Wenzel",
+            "email": "alexander.wenzel.berlin@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}

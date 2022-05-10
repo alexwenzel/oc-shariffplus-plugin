@@ -1,0 +1,17 @@
+{
+    "name": "shariffplus",
+    "version": "1.0.0",
+    "description": "Shariff-Plus enables website users to share and like their favorite content without compromising their privacy.",
+    "main": "index.js",
+    "scripts": {
+        "postinstall": "cp -R ./node_modules/shariff-plus/dist/ ./assets"
+    },
+    "keywords": [
+        "shariff-plus"
+    ],
+    "author": "alexwenzel",
+    "license": "ISC",
+    "devDependencies": {
+        "shariff-plus": "^2.2.3"
+    }
+}
