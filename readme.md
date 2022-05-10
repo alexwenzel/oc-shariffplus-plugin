@@ -10,7 +10,7 @@ Shariff-Plus enables website users to share and like their favorite content with
 ## installation
 
 ```
-composer require
+composer require alexwenzel/shariffplus-plugin
 ```
 
 ## usage
